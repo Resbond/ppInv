@@ -10,9 +10,3 @@ Kitchen Inventory
 
 - First test of a functional kitchen internal storage orders using OOP.
 - Practice of exceptions.
-
-
-```bash
-mvn package
-java -jar target/my-app-1.0-SNAPSHOT.jar
-```
